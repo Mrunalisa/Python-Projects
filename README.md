@@ -20,3 +20,15 @@ I'm always looking for new projects to work on and ways to improve my skills, so
 Thanks for reading!
 
 #programming #coding #beginnerprojects
+
+![robispeaker](https://user-images.githubusercontent.com/101034581/228623719-9dbb784e-7af8-4bbe-ad06-ddfdcae0971d.png)
+
+![emojitotext](https://user-images.githubusercontent.com/101034581/228623895-1064c3a8-6fa4-400a-89f9-a620c4c58c9b.png)
+
+![pdfmerger](https://user-images.githubusercontent.com/101034581/228623934-75a3ddff-77ce-450e-9c66-9ac9494add54.png)
+
+![whetherapppng](https://user-images.githubusercontent.com/101034581/228623642-503a129b-e08d-4634-9f98-4415711c5ce0.png)
+
+![imgresizer1](https://user-images.githubusercontent.com/101034581/228623994-bc19018f-2115-4e97-b9dd-19a595642d9c.png)
+![imgresizer2](https://user-images.githubusercontent.com/101034581/228624019-4a4ac1a1-c266-4670-84fd-e974356b237f.png)
+![imgresizer3](https://user-images.githubusercontent.com/101034581/228624040-ad368914-3192-42a8-b47e-338eeac14f1c.png)
