@@ -32,3 +32,4 @@ Thanks for reading!
 ![imgresizer1](https://user-images.githubusercontent.com/101034581/228623994-bc19018f-2115-4e97-b9dd-19a595642d9c.png)
 ![imgresizer2](https://user-images.githubusercontent.com/101034581/228624019-4a4ac1a1-c266-4670-84fd-e974356b237f.png)
 ![imgresizer3](https://user-images.githubusercontent.com/101034581/228624040-ad368914-3192-42a8-b47e-338eeac14f1c.png)
+![faceRecognition](https://user-images.githubusercontent.com/101034581/228808294-51c109b9-9b10-4dc7-b5ab-13c70e89f7e3.png)
